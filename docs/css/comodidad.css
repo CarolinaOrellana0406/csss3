@@ -1,0 +1,41 @@
+*/{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+header{
+    width: auto;
+    }
+h1{
+    text-align: center;
+    margin: 30px;
+    background-color: rgb(202, 153, 19);
+}
+h2{
+    width: 50%;
+    background-color: rgb(207, 69, 110);
+    border-radius: 5px;
+    margin: 20px;
+}
+img{
+    text-align: center;
+    width: 25%;
+    object-fit: cover;
+    border-radius: inherit;
+    border-style: double;
+    border-color: darksalmon;
+    border-width: 20px;
+
+}
+section{
+    background-color: lightblue;
+    border: 20px;
+
+}
+p{
+    box-sizing: border-box;
+    text-align: center;
+    font-family: cursive;
+    text-decoration-color: black;
+    
+}
